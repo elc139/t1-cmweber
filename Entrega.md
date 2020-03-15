@@ -21,3 +21,4 @@ Nome: Crístian Marcos Weber
 - https://sdumont.lncc.br/machine.php?pg=machine#
 - https://sdumont.lncc.br/team.php?pg=team
 - https://ark.intel.com/content/www/br/pt/ark/products/122590/intel-core-i3-7020u-processor-3m-cache-2-30-ghz.html
+- https://www.samsung.com/br/pc/notebook-essentials-e30-np350xaa-kf4br/
