@@ -17,6 +17,7 @@ Nome: Crístian Marcos Weber
 | Desempenho Linpack                                        |         	1,849 TFlop/s              |       41.5992 GFlop/s          |
 
 ### Referências
+- Intel Distribution for LINPACK Benchmark - https://software.intel.com/en-us/articles/intel-mkl-benchmarks-suite
 - https://www.top500.org/system/179704
 - https://sdumont.lncc.br/machine.php?pg=machine#
 - https://sdumont.lncc.br/team.php?pg=team
