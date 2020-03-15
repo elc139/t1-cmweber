@@ -6,7 +6,7 @@ Nome: Crístian Marcos Weber
 | Característica                                            | Computador no TOP500  | Meu computador  |
 | --------------------------------------------------------- | --------------------- | --------------- |
 | Nome/Título                                               |           SDumont            |       Samsung Essentials E30        |
-| Imagem (foto, diagrama, screenshot, etc.)                 | <img src="https://s2.glbimg.com/FIYzgs1MzfWaGo_kvfVl1YeSDbc=/696x390/top/smart/s.glbimg.com/jo/g1/f/original/2015/11/18/santos-dumont-g1.jpg" width="96"> | <img src="https://images.samsung.com/is/image/samsung/br-notebook-essentials-e30-np350xaa-kf4br-np350xaa-kf4br-rperspectivewhite-133896268?$PD_GALLERY_L_JPG$" width="96">|
+| Imagem (foto, diagrama, screenshot, etc.)                 | <img src="https://sdumont.lncc.br/images/header/santos_dumont_header_01.jpg" width="96"> | <img src="https://images.samsung.com/is/image/samsung/br-notebook-essentials-e30-np350xaa-kf4br-np350xaa-kf4br-rperspectivewhite-133896268?$PD_GALLERY_L_JPG$" width="96">|
 | Classificação de Flynn                                    |         MIMD SIMD              |       MIMD          |
 | Memória: compartilhada, distribuída ou ambas?             |         Ambas              |       Compartilhada          |
 | Número total de núcleos de processamento                  |         33,856            |      2 Núcleos 4 Threads       |
@@ -14,10 +14,10 @@ Nome: Crístian Marcos Weber
 | Frequência do(s) processador(es)                          |         2,10GHz              |      2.30 GHz           |
 | Memória total                                             |         35,328 GB        |      4 GB        |
 | Tipo(s) de interconexão entre os núcleos/processadores    |         Mellanox InfiniBand EDR      |                 |
-| Desempenho Linpack                                        |         	1,849 TFlop/s              |                 |
+| Desempenho Linpack                                        |         	1,849 TFlop/s              |       41.5992 GFlop/s          |
 
 ### Referências
-- Complete aqui: Autor (nome de pessoa ou instituição). Título. URL.
-- Complete aqui: Autor (nome de pessoa ou instituição). Título. URL.
-- Complete aqui: Autor (nome de pessoa ou instituição). Título. URL.
-- ...
+- https://www.top500.org/system/179704
+- https://sdumont.lncc.br/machine.php?pg=machine#
+- https://sdumont.lncc.br/team.php?pg=team
+- https://ark.intel.com/content/www/br/pt/ark/products/122590/intel-core-i3-7020u-processor-3m-cache-2-30-ghz.html
