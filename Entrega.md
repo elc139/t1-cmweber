@@ -12,9 +12,8 @@ Nome: < preencha seu nome aqui >
 | Número total de núcleos de processamento                  |         33,856            |                 |
 | Fabricante e modelo do(s) processador(es)                 |         Intel® Xeon® Gold 6252              |                 |
 | Frequência do(s) processador(es)                          |         2,10GHz              |                 |
-| Memória total                                             |         35,328 GB
-              |                 |
-| Tipo(s) de interconexão entre os núcleos/processadores    |         Mellanox InfiniBand EDR              |                 |
+| Memória total                                             |         35,328 GB        |                 |
+| Tipo(s) de interconexão entre os núcleos/processadores    |         Mellanox InfiniBand EDR      |                 |
 | Desempenho Linpack                                        |         	1,849 TFlop/s              |                 |
 
 ### Referências
